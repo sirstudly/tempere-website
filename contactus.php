@@ -21,7 +21,7 @@
                 <p class="mb-0">Tempere Consulting Limited</p>
                 <p class="mb-0">27 Old Gloucester Street</p>
                 <p class="mb-0">London, UK</p>
-                <p class="mb-0">Email: ron1404@techie.com</p>
+                <p class="mb-0">Email: info@tempereconsulting.co.uk</p>
             </div>
         </div>
     </div>
