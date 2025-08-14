@@ -14,7 +14,7 @@
             <div class="col-lg-10">
                 <header>
                     <h1>Our Privacy Policy</h1>
-                    <p>Last Updated: Jan 31, 2023</p>
+                    <p>Last Updated: Aug 01, 2025</p>
                 </header>
 
                 <section>
